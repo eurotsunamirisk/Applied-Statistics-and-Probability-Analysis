@@ -5,5 +5,5 @@ This Ph.D.-level course strives to introduce elementary concepts in probability.
 
 The objective of this course is to introduce the essential concepts and tools that a researcher may encounter in his/her problem-solving. The course begins by providing elementary concepts in probability theory. Next, the students are going to get to know the different types of probability distributions and their statistics. Specifically, the Poisson family of distributions, Normal and Lognormal distributions will be discussed thoroughly. Furthermore, the probabilistic model of linear regression will be described. Finally, the standard Monte Carlo Simulation method will be introduced. Emphasis is placed on showing the application of probabilistic concepts in real research examples.
 
-The material in this repository was prepared by Prof. F. Jalayer, Dr. H. Ebrahimian are released under a Creative Commons Attribution 4.0 International (CC BY 4.0):
+The material in this repository, which is made available by the European Tsunami Risk Service (https://eurotsunamirisk.org/), was prepared by Prof. F. Jalayer and Dr. H. Ebrahimian, and is released under a Creative Commons Attribution 4.0 International (CC BY 4.0):
 https://creativecommons.org/licenses/by/4.0/legalcode
