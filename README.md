@@ -1,4 +1,6 @@
 # Applied-Statistics-and-Probability-Analysis
+https://doi.org/10.5281/zenodo.5998174
+
 This repository contains learning material for “Applied Statistics and Probability Analysis”, a Ph.D.-level course taught by Prof. Jalayer (http://wpage.unina.it/fatemeh.jalayer/index.html) at at the University of Naples Federico II.
 
 This Ph.D.-level course strives to introduce elementary concepts in probability. The main aspect that distinguishes this course is that it is inspired by the concept of probability as extended logic (see E. T. Jaynes 2003, Probability Theory: the Logic of Science https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99).
