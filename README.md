@@ -1,6 +1,6 @@
 # Applied Statistics and Probability Analysis
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.5998174-blue)](https://doi.org/10.5281/zenodo.5998174)
-This repository contains learning material for the Ph.D.-level course "Applied Statistics and Probability Analysis," taught by [Prof. Fatemeh Jalayer](http://wpage.unina.it/fatemeh.jalayer/index.html) at the University of Naples Federico II.
+<br>This repository contains learning material for the Ph.D.-level course "Applied Statistics and Probability Analysis," taught by [Prof. Fatemeh Jalayer](http://wpage.unina.it/fatemeh.jalayer/index.html) at the University of Naples Federico II.
 
 ## Course Overview
 
