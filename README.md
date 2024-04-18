@@ -13,7 +13,7 @@ The course covers:
 - Probabilistic model of linear regression.
 - Introduction to the standard Monte Carlo Simulation method.
 
-Emphasis is placed on demonstrating the application of probabilistic concepts through real research examples.
+With focusing on the application of probabilistic concepts through real research examples.
 
 ## License
 
